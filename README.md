@@ -16,3 +16,6 @@ The Protect function outlines appropriate safeguards to ensure delivery of criti
 # DETECT
 
 Detecting potential cybersecurity incidents is critical and this function defines the appropriate activities to identify the occurrence of a cybersecurity event in a timely manner. 
+# RESPOND
+
+The Respond function focuses on appropriate activities to take action in case of a detected cybersecurity incident and supports the ability to contain the impact of a potential cybersecurity incident. 
