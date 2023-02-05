@@ -19,4 +19,4 @@ Detecting potential cybersecurity incidents is critical and this function define
 # RESPOND
 
 The Respond function focuses on appropriate activities to take action in case of a detected cybersecurity incident and supports the ability to contain the impact of a potential cybersecurity incident. 
-yahan sy
+
